@@ -17,7 +17,7 @@ public class AList {
       //3后增加元素
 
       list.add(3, 0);
-      System.out.println("在3后面郑家元素：");
+      System.out.println("在3后面加入元素：");
       for(Object o:list){
     	  System.out.print(o);
       }
